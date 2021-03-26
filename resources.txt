@@ -1,0 +1,9 @@
+Whenever you are stuck I suggest you google the error. I will tell you some communities
+and places to find code and resolve doubts. 90% of times you can google and figure it out.
+These are my favourite websites:
+geeksforgeeks.com
+programiz.com
+stackoverflow.com
+
+Most probably other sites will pop up when you google so just google it.
+The best solutions are usually on these websites.
