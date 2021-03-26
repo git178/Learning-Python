@@ -1,3 +1,14 @@
+# Print functions are used for output
+# They can print all types of data
+
+print(5)
+
+# Any thing within qoutes is a string
+# These can be  double(") or single(') quotes
+# Even numbers within these qoutes do not act as numbers
+
+print("Hello World")
+
 # Numbers with decimal parts are called floats
 # Numbers without the decimal parts are called int or integers
 
