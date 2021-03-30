@@ -21,3 +21,8 @@ y = y + x
 # Since y will now be
 # 41.23 + 55.23
 # That means y will now be 96.46
+
+# There are three rules for naming variables in python
+# Number 1: No special characters except underscores
+# Number 2: The variable name can't start with underscore or numbers
+# Number 3: It can't be a keyword like print
