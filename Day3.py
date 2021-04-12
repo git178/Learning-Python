@@ -12,4 +12,10 @@ print(buddy[:])
 # so (buddy[0:10]) = extremely
 # so (buddy[0:]) = extremely loyal and cute
 # so (buddy[:15]) = extremely loyal
-# so (buddy[:]) = extremely loyal and cute
+# so (buddy[:]) = extremely loyal and 
+
+print(buddy[-1])
+# so print(buddy[-1]) = e
+print(buddy[-2])
+print(buddy[-5:2])
+# so print(buddy[-2]) = t
